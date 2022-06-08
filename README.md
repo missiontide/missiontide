@@ -1,16 +1,13 @@
-### Hi there 👋
+![alt text](https://github.com/missiontide/missiontide/blob/main/avatar.png?raw=true)
 
-<!--
-**missiontide/missiontide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+### [🎵 praise.io](https://praise.io/)
+- _Built with_: React | MongoDB
+- _Utilized_: Node.js | Express
+- _Deployed with_: Netlify | Heroku.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [📆 whenimfree.io](https://whenimfree-io.vercel.app/)
+- _Built with_: React | PostgreSQL
+- _Utilized_: Next.js | Knex.js
+- _Deployed with_: Vercel | Heroku.
