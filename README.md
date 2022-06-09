@@ -2,12 +2,12 @@
 
 ## Projects
 
-### [🎵 praise.io](https://praise.io/) `instant worship slides`
+### [🎵 praise.io](https://praise.io/) \[`instant worship slides`]
 - _Built with_: **React** | **MongoDB**
 - _Utilized_: **Node.js** | **Express**
 - _Deployed with_: **Netlify** | **Heroku**
 
-### [📆 whenimfree.io](https://whenimfree.io/) `fast meeting scheduler`
+### [📆 whenimfree.io](https://whenimfree.io/) \[`fast meeting scheduler`]
 - _Built with_: **React** | **PostgreSQL**
 - _Utilized_: **Next.js** | **Knex.js**
 - _Deployed with_: **Vercel** | **Heroku**
