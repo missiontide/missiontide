@@ -11,3 +11,8 @@
 - _Built with_: **React** | **MongoDB**
 - _Utilized_: **Node.js** | **Express**
 - _Deployed with_: **Netlify** | **Heroku**
+
+### [⚡ flashback.cards](https://flashback-cards.vercel.app/) \[`party game`]
+- _Built with_: **React** | **Typescript**
+- _Deployed with_: **Vercel**
+- 
