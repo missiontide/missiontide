@@ -12,9 +12,9 @@
 - _Utilized_: **Node.js** | **Express**
 - _Deployed with_: **Netlify** | **Heroku**
 - > __Rebuilt for practice__  
-[_API_](http://ec2-44-200-144-164.compute-1.amazonaws.com:8888/): [**Yii**](https://github.com/missiontide/praise-io-yii) | Deployed w/ **AWS EC2** & **Docker**  
-_Backend_ **MySQL** | Deployed w/ **AWS RDS**  
-[_Frontend_](https://praise-io-q7au4xfbt-missiontide.vercel.app/): **Vue** & **Nuxt** | Deployed w/: **Vercel**
+[**API**](http://ec2-44-200-144-164.compute-1.amazonaws.com:8888/): _Built with_: [**Yii**](https://github.com/missiontide/praise-io-yii) | _Deployed with_ **AWS EC2** & **Docker**  
+**Backend**: _Built with_: **MySQL** | _Deployed with_: **AWS RDS**  
+[**Frontend**](https://praise-io-q7au4xfbt-missiontide.vercel.app/): _Built with_: **Vue** & **Nuxt** | _Deployed with_: **Vercel**
 
 ### [⚡ flashback.cards](https://flashback-cards.vercel.app/) \[`party game`]
 - _Built with_: **React** | **Typescript**
