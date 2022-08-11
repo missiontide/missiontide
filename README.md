@@ -1,4 +1,5 @@
-![alt text](https://github.com/missiontide/missiontide/blob/main/avatar.png?raw=true)
+![Missiontide logo](https://user-images.githubusercontent.com/7654785/184212810-bb907a9a-75ea-4ad7-946b-29e13ed01185.png)
+
 
 ## Projects
 
