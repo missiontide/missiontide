@@ -6,7 +6,7 @@
 ### [🎵 musicmin.app](https://musicmin.app/) \[`instant worship slides`]
 - _Built with_: **React** | **PHP** | **PostgreSQL**
 - _Utilized_: **Next.js** | **Laravel**
-- _Deployed with_: **Vercel** | **Laravel Forge** | **Heroku**
+- _Deployed with_: **Vercel** | **Laravel Forge** | **AWS**
 
 ### [📆 whenimfree.io](https://whenimfree.io/) \[`fast meeting scheduler`]
 - _Built with_: **React** | **PostgreSQL**
