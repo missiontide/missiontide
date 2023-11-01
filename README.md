@@ -4,9 +4,9 @@
 ## Projects
 
 ### [🎵 musicmin.app](https://musicmin.app/) \[`instant worship slides`]
-- _Built with_: **React** | **PHP** | **PostgreSQL**
-- _Utilized_: **Next.js** | **Laravel**
-- _Deployed with_: **Vercel** | **Laravel Forge** | **AWS**
+- _Built with_: **React** | **Sanity**
+- _Utilized_: **Next.js**
+- _Deployed with_: **Vercel**
 
 ### [📆 whenimfree.io](https://whenimfree.io/) \[`fast meeting scheduler`]
 - _Built with_: **React** | **PostgreSQL**
