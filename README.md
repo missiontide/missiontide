@@ -3,6 +3,12 @@
 
 ## Projects
 
+### [💵 conscious](https://conscious.cx/) \[`budgeting w/ money-mindfulness`]
+- _Built with_: **React** | **Tailwind** | **PostgreSQL**
+- _Utilized_: **Next.js**
+- _Deployed with_: **Vercel**
+- _Integrated with_: **Plaid**
+
 ### [🎵 musicmin.app](https://musicmin.app/) \[`instant worship slides`]
 - _Built with_: **React** | **Sanity**
 - _Utilized_: **Next.js**
