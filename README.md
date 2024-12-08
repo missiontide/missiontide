@@ -3,7 +3,7 @@
 
 ## Projects
 
-### [💵 conscious](https://conscious.cx/) \[`budgeting w/ money-mindfulness`]
+### [💵 conscious](https://csp-ai-two.vercel.app) \[`budgeting w/ money-mindfulness`]
 - _Built with_: **React** | **Tailwind** | **PostgreSQL**
 - _Utilized_: **Next.js**
 - _Deployed with_: **Vercel**
