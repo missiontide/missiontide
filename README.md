@@ -4,26 +4,7 @@
 ## Projects
 
 ### [🧠 askramit](https://askramit.com) \[`semantic search for iwt`]
-- _Built with_: **React** | **Sanity**
-- _Utilized_: **Next.js**
-- _Deployed with_: **Vercel**
-
 ### [💵 conscious](https://conscious.cx) \[`budgeting w/ money-mindfulness`]
-- _Built with_: **React** | **Tailwind** | **PostgreSQL**
-- _Utilized_: **Next.js**
-- _Deployed with_: **Vercel**
-- _Integrated with_: **Plaid**
-
 ### [🎵 musicmin.app](https://musicmin.app/) \[`instant worship slides`]
-- _Built with_: **React** | **Sanity**
-- _Utilized_: **Next.js**
-- _Deployed with_: **Vercel**
-
 ### [📆 whenimfree.io](https://whenimfree.io/) \[`fast meeting scheduler`]
-- _Built with_: **React** | **PostgreSQL**
-- _Utilized_: **Next.js** | **Knex.js**
-- _Deployed with_: **Vercel** | **Heroku**
-
 ### [⚡ flashback.cards](https://flashback-cards.vercel.app/) \[`party game`]
-- _Built with_: **React** | **Typescript**
-- _Deployed with_: **Vercel**
