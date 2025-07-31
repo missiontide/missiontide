@@ -3,7 +3,7 @@
 
 ## Projects
 
-### [💵 askramit](https://askramit.com) \[`Semantic Search for IWT`]
+### [🧠 askramit](https://askramit.com) \[`Semantic Search for IWT`]
 - _Built with_: **React** | **Sanity**
 - _Utilized_: **Next.js**
 - _Deployed with_: **Vercel**
