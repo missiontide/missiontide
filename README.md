@@ -3,6 +3,7 @@
 
 ## Projects
 
+### [📜 print-commerical-invoices](https://apps.shopify.com/print-commercial-invoices) \[`shopify app`]
 ### [🧠 askramit](https://askramit.com) \[`semantic search for iwt`]
 ### [💵 conscious](https://conscious.cx) \[`budgeting w/ money-mindfulness`]
 ### [🎵 musicmin.app](https://musicmin.app/) \[`instant worship slides`]
