@@ -3,7 +3,7 @@
 
 ## Projects
 
-### 🀄 mahjong-tayo (ios | [android](https://play.google.com/store/apps/details?id=com.generationalgames.filipinomahjong)) \[`mobile game`]
+### 🀄 mahjong-tayo _(ios | [android](https://play.google.com/store/apps/details?id=com.generationalgames.filipinomahjong))_ \[`mobile game`]
 ### [🔁 automatic-bundle-pricing](https://apps.shopify.com/automatic-bundle-pricing) \[`shopify app`]
 ### [📜 print-commercial-invoices](https://apps.shopify.com/print-commercial-invoices) \[`shopify app`]
 ### [🧠 askramit](https://askramit.com) \[`semantic search for iwt`]
